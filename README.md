@@ -1,10 +1,10 @@
-#TP typescript API sans dépendances
+# TP typescript API sans dépendances
 
-##Fonction
+## Fonction
 
 Simple API qui affiche les headers d'une requête GET à l'URL "/ping", et affiche un corps vide avec code 404 sur les autres routes.
 
-##Utilisation
+## Utilisation
 
 Créer/modifier la valeur de la variable d'environnement `PING_LISTEN_PORT` pour modifier le port d'écoute de l'API. La valeur par défaut est 3000.
 
